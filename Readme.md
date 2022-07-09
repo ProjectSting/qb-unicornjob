@@ -1,8 +1,5 @@
 # A Vanilla Unicorn Job for QBCore Framework
 
-Discord - https://discord.gg/3WYz3zaqG5
-
-
 ## Please note
 
 - Please make sure u use the latest dependencies aswell as core for this in order to work.
