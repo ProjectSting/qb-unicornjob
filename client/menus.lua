@@ -112,7 +112,7 @@ Citizen.CreateThread(function()
 		}) 
 
         exports['qb-target']:AddBoxZone("drinkstable6", vector3(120.98, -1285.01, 28.68), 1.05, 1.0, {
-			name = "drinkstable56", 
+			name = "drinkstable6", 
 			heading = 30.0,
 			debugPoly = false,
 			minZ=27.5,
